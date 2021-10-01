@@ -5,7 +5,13 @@
 
 /* Tablet & Mobile */
 @media (max-width: 63.9375em){
+    .contact-form .form-control{
+        font-size: 18px;
+    }
 
+    #footer .social a{
+        padding: 0 8px;
+    }
 }
 
 /* Tablet */
@@ -88,9 +94,7 @@
         padding: 0 16px;
     }
 
-    #footer .social a{
-        padding: 0 8px;
-    }
+
 
 
 }
